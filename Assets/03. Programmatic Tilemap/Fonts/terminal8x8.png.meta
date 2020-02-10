@@ -1,0 +1,7018 @@
+fileFormatVersion: 2
+guid: c47fcace83eae7543847eb2ac529065b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4684287552992130737
+    second: terminal8x8_0
+  - first:
+      213: 6438922884293468418
+    second: terminal8x8_1
+  - first:
+      213: 2920865043693628995
+    second: terminal8x8_2
+  - first:
+      213: 57770608367295910
+    second: terminal8x8_3
+  - first:
+      213: 9168272451993129872
+    second: terminal8x8_4
+  - first:
+      213: -2295385839602435894
+    second: terminal8x8_5
+  - first:
+      213: -973625112946404158
+    second: terminal8x8_6
+  - first:
+      213: -2856884978091194796
+    second: terminal8x8_7
+  - first:
+      213: 5440224974268870177
+    second: terminal8x8_8
+  - first:
+      213: -5348813110124437156
+    second: terminal8x8_9
+  - first:
+      213: 3326715761484836080
+    second: terminal8x8_10
+  - first:
+      213: -5871394029238368047
+    second: terminal8x8_11
+  - first:
+      213: -2491086013619468984
+    second: terminal8x8_12
+  - first:
+      213: -485243499593312452
+    second: terminal8x8_13
+  - first:
+      213: 3746247303966959675
+    second: terminal8x8_14
+  - first:
+      213: -4511757747902610658
+    second: terminal8x8_15
+  - first:
+      213: -7056045239371968607
+    second: terminal8x8_16
+  - first:
+      213: -9207850118186399097
+    second: terminal8x8_17
+  - first:
+      213: -3281902828217723075
+    second: terminal8x8_18
+  - first:
+      213: 6626144040701751309
+    second: terminal8x8_19
+  - first:
+      213: -7432521131865574490
+    second: terminal8x8_20
+  - first:
+      213: -2490216683719267543
+    second: terminal8x8_21
+  - first:
+      213: 103133260085559762
+    second: terminal8x8_22
+  - first:
+      213: -2787069018412408174
+    second: terminal8x8_23
+  - first:
+      213: 1272443166163248984
+    second: terminal8x8_24
+  - first:
+      213: 9002071369560116204
+    second: terminal8x8_25
+  - first:
+      213: -6809870010279075612
+    second: terminal8x8_26
+  - first:
+      213: 597133209049889519
+    second: terminal8x8_27
+  - first:
+      213: -2688455593857743638
+    second: terminal8x8_28
+  - first:
+      213: 1399155263800716374
+    second: terminal8x8_29
+  - first:
+      213: 4230556225942896337
+    second: terminal8x8_30
+  - first:
+      213: 5756792986596673234
+    second: terminal8x8_31
+  - first:
+      213: -2464297927129362362
+    second: terminal8x8_32
+  - first:
+      213: 8712510079556364248
+    second: terminal8x8_33
+  - first:
+      213: -689222252549060557
+    second: terminal8x8_34
+  - first:
+      213: 28058382617506512
+    second: terminal8x8_35
+  - first:
+      213: -6182262382476424666
+    second: terminal8x8_36
+  - first:
+      213: 6463290851152757132
+    second: terminal8x8_37
+  - first:
+      213: -5999132748430845117
+    second: terminal8x8_38
+  - first:
+      213: 6452507558753195322
+    second: terminal8x8_39
+  - first:
+      213: 2980869577419611410
+    second: terminal8x8_40
+  - first:
+      213: -8584710692884771515
+    second: terminal8x8_41
+  - first:
+      213: -6320763714578459687
+    second: terminal8x8_42
+  - first:
+      213: 3458337148644040022
+    second: terminal8x8_43
+  - first:
+      213: -8739029003720403941
+    second: terminal8x8_44
+  - first:
+      213: 8628639973579738773
+    second: terminal8x8_45
+  - first:
+      213: -1537412944094620417
+    second: terminal8x8_46
+  - first:
+      213: 4703943434243440246
+    second: terminal8x8_47
+  - first:
+      213: -3117657131996577609
+    second: terminal8x8_48
+  - first:
+      213: 1342511090963736808
+    second: terminal8x8_49
+  - first:
+      213: -137532154877158723
+    second: terminal8x8_50
+  - first:
+      213: -6375589857495661755
+    second: terminal8x8_51
+  - first:
+      213: 1933411621581108119
+    second: terminal8x8_52
+  - first:
+      213: -7218437321222620599
+    second: terminal8x8_53
+  - first:
+      213: 2108630161686852630
+    second: terminal8x8_54
+  - first:
+      213: 2355183881651715934
+    second: terminal8x8_55
+  - first:
+      213: 138719876207026696
+    second: terminal8x8_56
+  - first:
+      213: 1591631512703168040
+    second: terminal8x8_57
+  - first:
+      213: -5134471982987806587
+    second: terminal8x8_58
+  - first:
+      213: 2601043244933054514
+    second: terminal8x8_59
+  - first:
+      213: -6951148022484881826
+    second: terminal8x8_60
+  - first:
+      213: 7182002129502681992
+    second: terminal8x8_61
+  - first:
+      213: 2970690014826473157
+    second: terminal8x8_62
+  - first:
+      213: 7188165552858224426
+    second: terminal8x8_63
+  - first:
+      213: -6083343557021119607
+    second: terminal8x8_64
+  - first:
+      213: -3656667607564102762
+    second: terminal8x8_65
+  - first:
+      213: 6333146404925532581
+    second: terminal8x8_66
+  - first:
+      213: -130723322596911469
+    second: terminal8x8_67
+  - first:
+      213: -8880738804711916490
+    second: terminal8x8_68
+  - first:
+      213: -1610934904841466513
+    second: terminal8x8_69
+  - first:
+      213: 6802613449910000148
+    second: terminal8x8_70
+  - first:
+      213: -4181619541364008088
+    second: terminal8x8_71
+  - first:
+      213: -967102373597029176
+    second: terminal8x8_72
+  - first:
+      213: 7519671682381581802
+    second: terminal8x8_73
+  - first:
+      213: 6124614166704707797
+    second: terminal8x8_74
+  - first:
+      213: 552579186286816175
+    second: terminal8x8_75
+  - first:
+      213: -947542469383292321
+    second: terminal8x8_76
+  - first:
+      213: 4903807965001499815
+    second: terminal8x8_77
+  - first:
+      213: -4855646610365086810
+    second: terminal8x8_78
+  - first:
+      213: 3342360399798379858
+    second: terminal8x8_79
+  - first:
+      213: -7153396479145490478
+    second: terminal8x8_80
+  - first:
+      213: 1978295427888601526
+    second: terminal8x8_81
+  - first:
+      213: -7589489655755750160
+    second: terminal8x8_82
+  - first:
+      213: 7434021316280349262
+    second: terminal8x8_83
+  - first:
+      213: -4613504436197019314
+    second: terminal8x8_84
+  - first:
+      213: 7923683752915687748
+    second: terminal8x8_85
+  - first:
+      213: 3334845357420539727
+    second: terminal8x8_86
+  - first:
+      213: -8614508408566845074
+    second: terminal8x8_87
+  - first:
+      213: -6915381562753634089
+    second: terminal8x8_88
+  - first:
+      213: 1229058264720154608
+    second: terminal8x8_89
+  - first:
+      213: 5036242555924864039
+    second: terminal8x8_90
+  - first:
+      213: -5883791047075165064
+    second: terminal8x8_91
+  - first:
+      213: 7598028718953310033
+    second: terminal8x8_92
+  - first:
+      213: 733697411732500044
+    second: terminal8x8_93
+  - first:
+      213: 2307113611731599881
+    second: terminal8x8_94
+  - first:
+      213: 5446450822839568653
+    second: terminal8x8_95
+  - first:
+      213: -1734653217794687592
+    second: terminal8x8_96
+  - first:
+      213: -8421813627946092318
+    second: terminal8x8_97
+  - first:
+      213: 6362979447904956165
+    second: terminal8x8_98
+  - first:
+      213: 4141954327654761952
+    second: terminal8x8_99
+  - first:
+      213: -3300250093691070304
+    second: terminal8x8_100
+  - first:
+      213: 7096902743100866129
+    second: terminal8x8_101
+  - first:
+      213: 3728581004912454866
+    second: terminal8x8_102
+  - first:
+      213: -7150903481613563324
+    second: terminal8x8_103
+  - first:
+      213: -6302907673041030656
+    second: terminal8x8_104
+  - first:
+      213: 5185683194070961266
+    second: terminal8x8_105
+  - first:
+      213: 6778599783604467684
+    second: terminal8x8_106
+  - first:
+      213: -7023990890471228043
+    second: terminal8x8_107
+  - first:
+      213: 3160327361299208818
+    second: terminal8x8_108
+  - first:
+      213: 1643126234413965318
+    second: terminal8x8_109
+  - first:
+      213: -7053563073876987325
+    second: terminal8x8_110
+  - first:
+      213: -2918422764837199137
+    second: terminal8x8_111
+  - first:
+      213: -1299827707217754798
+    second: terminal8x8_112
+  - first:
+      213: -1483137419528939888
+    second: terminal8x8_113
+  - first:
+      213: -2259951614492857917
+    second: terminal8x8_114
+  - first:
+      213: -8799034946062737777
+    second: terminal8x8_115
+  - first:
+      213: -2582243183899543742
+    second: terminal8x8_116
+  - first:
+      213: 269991742309618857
+    second: terminal8x8_117
+  - first:
+      213: -5481773045642901643
+    second: terminal8x8_118
+  - first:
+      213: 7803862893485163381
+    second: terminal8x8_119
+  - first:
+      213: 733194189777547518
+    second: terminal8x8_120
+  - first:
+      213: 6872717014726960179
+    second: terminal8x8_121
+  - first:
+      213: 9211680979741261097
+    second: terminal8x8_122
+  - first:
+      213: -6988360196029060368
+    second: terminal8x8_123
+  - first:
+      213: -2341448551063258651
+    second: terminal8x8_124
+  - first:
+      213: 8489091321072614216
+    second: terminal8x8_125
+  - first:
+      213: 7853032315245069257
+    second: terminal8x8_126
+  - first:
+      213: -7249098145031671153
+    second: terminal8x8_127
+  - first:
+      213: 3554966645932180986
+    second: terminal8x8_128
+  - first:
+      213: 4840333230015491785
+    second: terminal8x8_129
+  - first:
+      213: -7563026838247030793
+    second: terminal8x8_130
+  - first:
+      213: -4129247892806961222
+    second: terminal8x8_131
+  - first:
+      213: 441376028657529057
+    second: terminal8x8_132
+  - first:
+      213: 480933701821113769
+    second: terminal8x8_133
+  - first:
+      213: 370121049901878050
+    second: terminal8x8_134
+  - first:
+      213: -5176306895269451116
+    second: terminal8x8_135
+  - first:
+      213: 8634335737526337881
+    second: terminal8x8_136
+  - first:
+      213: -7362752824584740746
+    second: terminal8x8_137
+  - first:
+      213: -996858570030063864
+    second: terminal8x8_138
+  - first:
+      213: -6756023672642362959
+    second: terminal8x8_139
+  - first:
+      213: -2912220013009636950
+    second: terminal8x8_140
+  - first:
+      213: 7716488403237639883
+    second: terminal8x8_141
+  - first:
+      213: 4306890390103040305
+    second: terminal8x8_142
+  - first:
+      213: 696196487443228207
+    second: terminal8x8_143
+  - first:
+      213: 8092577131135405793
+    second: terminal8x8_144
+  - first:
+      213: 4801365383747393416
+    second: terminal8x8_145
+  - first:
+      213: -2163971615718740810
+    second: terminal8x8_146
+  - first:
+      213: -4051567762158287360
+    second: terminal8x8_147
+  - first:
+      213: -8256221607384245403
+    second: terminal8x8_148
+  - first:
+      213: 8081911405387860596
+    second: terminal8x8_149
+  - first:
+      213: 908170434869204979
+    second: terminal8x8_150
+  - first:
+      213: -7520943452142708386
+    second: terminal8x8_151
+  - first:
+      213: 3619776974072253986
+    second: terminal8x8_152
+  - first:
+      213: -69860543628085528
+    second: terminal8x8_153
+  - first:
+      213: 5349002840904645463
+    second: terminal8x8_154
+  - first:
+      213: -4767076914732209674
+    second: terminal8x8_155
+  - first:
+      213: -9714851834610734
+    second: terminal8x8_156
+  - first:
+      213: -3915897873048714017
+    second: terminal8x8_157
+  - first:
+      213: 7957668601379393828
+    second: terminal8x8_158
+  - first:
+      213: -7317056919064389686
+    second: terminal8x8_159
+  - first:
+      213: 7759836545050098954
+    second: terminal8x8_160
+  - first:
+      213: -7632658474959256773
+    second: terminal8x8_161
+  - first:
+      213: -3652745777977961488
+    second: terminal8x8_162
+  - first:
+      213: -4918602499931686308
+    second: terminal8x8_163
+  - first:
+      213: -8233953419306638901
+    second: terminal8x8_164
+  - first:
+      213: -1028175977600910744
+    second: terminal8x8_165
+  - first:
+      213: 2353293150978507191
+    second: terminal8x8_166
+  - first:
+      213: -7663094722812560592
+    second: terminal8x8_167
+  - first:
+      213: 8711349774200899032
+    second: terminal8x8_168
+  - first:
+      213: 4053270191945271320
+    second: terminal8x8_169
+  - first:
+      213: -4931340853278018096
+    second: terminal8x8_170
+  - first:
+      213: 653091074071925577
+    second: terminal8x8_171
+  - first:
+      213: 7971530500841547503
+    second: terminal8x8_172
+  - first:
+      213: -573761256331710685
+    second: terminal8x8_173
+  - first:
+      213: -5145136714462614637
+    second: terminal8x8_174
+  - first:
+      213: 2497215534788866106
+    second: terminal8x8_175
+  - first:
+      213: 4816982925315334911
+    second: terminal8x8_176
+  - first:
+      213: 519632581419905623
+    second: terminal8x8_177
+  - first:
+      213: -6498054756058412302
+    second: terminal8x8_178
+  - first:
+      213: 397497810523967873
+    second: terminal8x8_179
+  - first:
+      213: -9141068309053312123
+    second: terminal8x8_180
+  - first:
+      213: 4443730871643579136
+    second: terminal8x8_181
+  - first:
+      213: -419471397973437934
+    second: terminal8x8_182
+  - first:
+      213: 73820340231690293
+    second: terminal8x8_183
+  - first:
+      213: -5030441888481420781
+    second: terminal8x8_184
+  - first:
+      213: -6445829679756048022
+    second: terminal8x8_185
+  - first:
+      213: -2177138914853134625
+    second: terminal8x8_186
+  - first:
+      213: 3604543775189149268
+    second: terminal8x8_187
+  - first:
+      213: 4120046030050953758
+    second: terminal8x8_188
+  - first:
+      213: -7921965846061403133
+    second: terminal8x8_189
+  - first:
+      213: -7391384434611890042
+    second: terminal8x8_190
+  - first:
+      213: -4641944925844847135
+    second: terminal8x8_191
+  - first:
+      213: 5806611513364671021
+    second: terminal8x8_192
+  - first:
+      213: -1923740314947831134
+    second: terminal8x8_193
+  - first:
+      213: 379762984956275275
+    second: terminal8x8_194
+  - first:
+      213: 8822436656728233952
+    second: terminal8x8_195
+  - first:
+      213: 124002517379628534
+    second: terminal8x8_196
+  - first:
+      213: -277202879725843265
+    second: terminal8x8_197
+  - first:
+      213: 1399944063159508732
+    second: terminal8x8_198
+  - first:
+      213: -7411491553243036865
+    second: terminal8x8_199
+  - first:
+      213: -6099649399942110333
+    second: terminal8x8_200
+  - first:
+      213: -1126332339480593412
+    second: terminal8x8_201
+  - first:
+      213: 3374949372267969059
+    second: terminal8x8_202
+  - first:
+      213: -9153418276184218528
+    second: terminal8x8_203
+  - first:
+      213: 5991509368486185463
+    second: terminal8x8_204
+  - first:
+      213: -6431432550954309184
+    second: terminal8x8_205
+  - first:
+      213: 5579193250740193726
+    second: terminal8x8_206
+  - first:
+      213: 6023898927563635625
+    second: terminal8x8_207
+  - first:
+      213: -7568320188699008219
+    second: terminal8x8_208
+  - first:
+      213: 1348278371029588844
+    second: terminal8x8_209
+  - first:
+      213: 4011846568052039047
+    second: terminal8x8_210
+  - first:
+      213: 5462206411178106590
+    second: terminal8x8_211
+  - first:
+      213: 1478361720867316172
+    second: terminal8x8_212
+  - first:
+      213: 4793565444905794407
+    second: terminal8x8_213
+  - first:
+      213: 8532667518507018851
+    second: terminal8x8_214
+  - first:
+      213: 1445719718168099956
+    second: terminal8x8_215
+  - first:
+      213: -8573631884786520545
+    second: terminal8x8_216
+  - first:
+      213: -5811383051424999361
+    second: terminal8x8_217
+  - first:
+      213: -5960859305778097808
+    second: terminal8x8_218
+  - first:
+      213: 9140577752651130960
+    second: terminal8x8_219
+  - first:
+      213: -2642665006132770470
+    second: terminal8x8_220
+  - first:
+      213: -1738487268474044517
+    second: terminal8x8_221
+  - first:
+      213: 4281935346181922676
+    second: terminal8x8_222
+  - first:
+      213: -2016151561046658310
+    second: terminal8x8_223
+  - first:
+      213: 2296535739291746906
+    second: terminal8x8_224
+  - first:
+      213: 7572248538870550754
+    second: terminal8x8_225
+  - first:
+      213: 7040194373559419895
+    second: terminal8x8_226
+  - first:
+      213: -2195898963456297596
+    second: terminal8x8_227
+  - first:
+      213: 7820836413834607867
+    second: terminal8x8_228
+  - first:
+      213: -1445327476261150515
+    second: terminal8x8_229
+  - first:
+      213: 918157941239078817
+    second: terminal8x8_230
+  - first:
+      213: -2058696626788051011
+    second: terminal8x8_231
+  - first:
+      213: -9030312892273671360
+    second: terminal8x8_232
+  - first:
+      213: 8099668990343293337
+    second: terminal8x8_233
+  - first:
+      213: -3781874381150392829
+    second: terminal8x8_234
+  - first:
+      213: -2001685585996213587
+    second: terminal8x8_235
+  - first:
+      213: -2262067434612139860
+    second: terminal8x8_236
+  - first:
+      213: 3397262899238008383
+    second: terminal8x8_237
+  - first:
+      213: 2333141614020124781
+    second: terminal8x8_238
+  - first:
+      213: 6788570201792066590
+    second: terminal8x8_239
+  - first:
+      213: -6834226682269417061
+    second: terminal8x8_240
+  - first:
+      213: -7700581893760106784
+    second: terminal8x8_241
+  - first:
+      213: 1759727680711909582
+    second: terminal8x8_242
+  - first:
+      213: -8288764464401333480
+    second: terminal8x8_243
+  - first:
+      213: 6340305672138423569
+    second: terminal8x8_244
+  - first:
+      213: -7257528532979853216
+    second: terminal8x8_245
+  - first:
+      213: 5399553369675817077
+    second: terminal8x8_246
+  - first:
+      213: 7739643559374200836
+    second: terminal8x8_247
+  - first:
+      213: -7886670853362556029
+    second: terminal8x8_248
+  - first:
+      213: -2184788470580473230
+    second: terminal8x8_249
+  - first:
+      213: 4861409094852984552
+    second: terminal8x8_250
+  - first:
+      213: -629923669696973450
+    second: terminal8x8_251
+  - first:
+      213: -4248084712125121285
+    second: terminal8x8_252
+  - first:
+      213: 770209520141863196
+    second: terminal8x8_0
+  - first:
+      213: 7512019957781111111
+    second: terminal8x8_1
+  - first:
+      213: -5223182234636353577
+    second: terminal8x8_2
+  - first:
+      213: -2997510294803916805
+    second: terminal8x8_3
+  - first:
+      213: 3493276455892594111
+    second: terminal8x8_4
+  - first:
+      213: -6931083427537963252
+    second: terminal8x8_5
+  - first:
+      213: -6333590049691320975
+    second: terminal8x8_6
+  - first:
+      213: 7242435505453719539
+    second: terminal8x8_7
+  - first:
+      213: 2609265180416762243
+    second: terminal8x8_8
+  - first:
+      213: -807769929164471666
+    second: terminal8x8_9
+  - first:
+      213: -7423817025615346288
+    second: terminal8x8_10
+  - first:
+      213: -3614451633499893430
+    second: terminal8x8_11
+  - first:
+      213: 1868450211222642793
+    second: terminal8x8_12
+  - first:
+      213: 9037739035848694617
+    second: terminal8x8_13
+  - first:
+      213: 2998649145307406575
+    second: terminal8x8_14
+  - first:
+      213: 7951282633679380655
+    second: terminal8x8_15
+  - first:
+      213: -2261958663400331578
+    second: terminal8x8_16
+  - first:
+      213: -5171647398268094900
+    second: terminal8x8_17
+  - first:
+      213: 2377353052087676775
+    second: terminal8x8_18
+  - first:
+      213: -4927989340666074510
+    second: terminal8x8_19
+  - first:
+      213: -3474612684741827448
+    second: terminal8x8_20
+  - first:
+      213: -8219788282989914139
+    second: terminal8x8_21
+  - first:
+      213: 4786636696268598703
+    second: terminal8x8_22
+  - first:
+      213: -5863675390092248737
+    second: terminal8x8_23
+  - first:
+      213: -2546929865579570801
+    second: terminal8x8_24
+  - first:
+      213: -5880446278584830515
+    second: terminal8x8_25
+  - first:
+      213: 3272343474244767190
+    second: terminal8x8_26
+  - first:
+      213: 5912502356646355475
+    second: terminal8x8_27
+  - first:
+      213: -4052566127096266313
+    second: terminal8x8_28
+  - first:
+      213: -2811662815609487879
+    second: terminal8x8_29
+  - first:
+      213: -9188169516136084742
+    second: terminal8x8_30
+  - first:
+      213: -7343590998324514746
+    second: terminal8x8_31
+  - first:
+      213: -1343401823407000084
+    second: terminal8x8_32
+  - first:
+      213: 2058787754005276758
+    second: terminal8x8_33
+  - first:
+      213: 9027168543999762089
+    second: terminal8x8_34
+  - first:
+      213: -5953286150857642254
+    second: terminal8x8_35
+  - first:
+      213: -4097423794472103723
+    second: terminal8x8_36
+  - first:
+      213: -2081032101309857299
+    second: terminal8x8_37
+  - first:
+      213: 48062337781128711
+    second: terminal8x8_38
+  - first:
+      213: 9081263604657942893
+    second: terminal8x8_39
+  - first:
+      213: -3470228339694731230
+    second: terminal8x8_40
+  - first:
+      213: -7775330655544214083
+    second: terminal8x8_41
+  - first:
+      213: -6435690917942464408
+    second: terminal8x8_42
+  - first:
+      213: 3087002165265054840
+    second: terminal8x8_43
+  - first:
+      213: 6799882714957322872
+    second: terminal8x8_44
+  - first:
+      213: 2051029266067853098
+    second: terminal8x8_45
+  - first:
+      213: 9078223267989559265
+    second: terminal8x8_46
+  - first:
+      213: -2152835355954318805
+    second: terminal8x8_47
+  - first:
+      213: 3430351689335367688
+    second: terminal8x8_48
+  - first:
+      213: -639150097918417433
+    second: terminal8x8_49
+  - first:
+      213: -5645972362465940122
+    second: terminal8x8_50
+  - first:
+      213: -5680798995987233093
+    second: terminal8x8_51
+  - first:
+      213: 6691099679418758621
+    second: terminal8x8_52
+  - first:
+      213: -4524224933935049496
+    second: terminal8x8_53
+  - first:
+      213: -8375933098752132308
+    second: terminal8x8_54
+  - first:
+      213: -5243498722766068447
+    second: terminal8x8_55
+  - first:
+      213: -8431325560868395462
+    second: terminal8x8_56
+  - first:
+      213: -5415342803361309551
+    second: terminal8x8_57
+  - first:
+      213: -2098363058192310832
+    second: terminal8x8_58
+  - first:
+      213: 2466261103983362346
+    second: terminal8x8_59
+  - first:
+      213: -5711674962799867524
+    second: terminal8x8_60
+  - first:
+      213: -7107818425133163417
+    second: terminal8x8_61
+  - first:
+      213: -1479675294912202431
+    second: terminal8x8_62
+  - first:
+      213: -5433601940526122394
+    second: terminal8x8_63
+  - first:
+      213: -9009933677509915055
+    second: terminal8x8_64
+  - first:
+      213: 3529516644642298365
+    second: terminal8x8_65
+  - first:
+      213: 4412957201159066542
+    second: terminal8x8_66
+  - first:
+      213: 3275178322348183495
+    second: terminal8x8_67
+  - first:
+      213: 326758518944825011
+    second: terminal8x8_68
+  - first:
+      213: 7652596709501216396
+    second: terminal8x8_69
+  - first:
+      213: 2375990719604214585
+    second: terminal8x8_70
+  - first:
+      213: 5310672572648148284
+    second: terminal8x8_71
+  - first:
+      213: 3239226775001380465
+    second: terminal8x8_72
+  - first:
+      213: 6593925870658278342
+    second: terminal8x8_73
+  - first:
+      213: 5238069110561571312
+    second: terminal8x8_74
+  - first:
+      213: -5692187370976787988
+    second: terminal8x8_75
+  - first:
+      213: -3401276759985456595
+    second: terminal8x8_76
+  - first:
+      213: -1387962249178788670
+    second: terminal8x8_77
+  - first:
+      213: 2384379449262669440
+    second: terminal8x8_78
+  - first:
+      213: -7542221336761704249
+    second: terminal8x8_79
+  - first:
+      213: -6456373034579905068
+    second: terminal8x8_80
+  - first:
+      213: -2119953335974838192
+    second: terminal8x8_81
+  - first:
+      213: 3752627287718437100
+    second: terminal8x8_82
+  - first:
+      213: -4748981652145563739
+    second: terminal8x8_83
+  - first:
+      213: -3271283708576325489
+    second: terminal8x8_84
+  - first:
+      213: 331188195666769905
+    second: terminal8x8_85
+  - first:
+      213: -8291037235161353373
+    second: terminal8x8_86
+  - first:
+      213: -9223068496835832836
+    second: terminal8x8_87
+  - first:
+      213: -1632796811994037214
+    second: terminal8x8_88
+  - first:
+      213: -4019451004968517631
+    second: terminal8x8_89
+  - first:
+      213: -9131524109087227584
+    second: terminal8x8_90
+  - first:
+      213: 1309929319022904541
+    second: terminal8x8_91
+  - first:
+      213: -3432406048215787871
+    second: terminal8x8_92
+  - first:
+      213: -5489125291031521408
+    second: terminal8x8_93
+  - first:
+      213: -6862481331318719760
+    second: terminal8x8_94
+  - first:
+      213: 4677594710380401514
+    second: terminal8x8_95
+  - first:
+      213: 365180741657078782
+    second: terminal8x8_96
+  - first:
+      213: 4795906023489246483
+    second: terminal8x8_97
+  - first:
+      213: -370493496199350591
+    second: terminal8x8_98
+  - first:
+      213: 5015054012100497734
+    second: terminal8x8_99
+  - first:
+      213: 7489670545698469132
+    second: terminal8x8_100
+  - first:
+      213: 4726234944650265865
+    second: terminal8x8_101
+  - first:
+      213: -3163835223606369175
+    second: terminal8x8_102
+  - first:
+      213: -8397269527532517535
+    second: terminal8x8_103
+  - first:
+      213: 6486947823586498401
+    second: terminal8x8_104
+  - first:
+      213: -6714746551632470269
+    second: terminal8x8_105
+  - first:
+      213: 5569909849769070380
+    second: terminal8x8_106
+  - first:
+      213: -3791318011941954940
+    second: terminal8x8_107
+  - first:
+      213: 8014321838945904696
+    second: terminal8x8_108
+  - first:
+      213: -2737492149516205653
+    second: terminal8x8_109
+  - first:
+      213: -799035360274088562
+    second: terminal8x8_110
+  - first:
+      213: -3153223016071830744
+    second: terminal8x8_111
+  - first:
+      213: 8052133214248565856
+    second: terminal8x8_112
+  - first:
+      213: 4394816255746163590
+    second: terminal8x8_113
+  - first:
+      213: -3265929721501104128
+    second: terminal8x8_114
+  - first:
+      213: 4581853767275311823
+    second: terminal8x8_115
+  - first:
+      213: -9174109728717647861
+    second: terminal8x8_116
+  - first:
+      213: 940723629683480189
+    second: terminal8x8_117
+  - first:
+      213: -1175881480372198760
+    second: terminal8x8_118
+  - first:
+      213: 6560233810529905379
+    second: terminal8x8_119
+  - first:
+      213: -8220441531005199099
+    second: terminal8x8_120
+  - first:
+      213: -3008129779793163056
+    second: terminal8x8_121
+  - first:
+      213: -8427567481529864457
+    second: terminal8x8_122
+  - first:
+      213: 4867772802072495938
+    second: terminal8x8_123
+  - first:
+      213: 709243868478941163
+    second: terminal8x8_124
+  - first:
+      213: -5931072783646977279
+    second: terminal8x8_125
+  - first:
+      213: 6214800301924909798
+    second: terminal8x8_126
+  - first:
+      213: 8950345092252685587
+    second: terminal8x8_127
+  - first:
+      213: 693996226238054153
+    second: terminal8x8_128
+  - first:
+      213: 8486728108624177862
+    second: terminal8x8_129
+  - first:
+      213: -8881455579713260220
+    second: terminal8x8_130
+  - first:
+      213: 3891543320262186000
+    second: terminal8x8_131
+  - first:
+      213: -3671930985123601200
+    second: terminal8x8_132
+  - first:
+      213: -4742976553575118743
+    second: terminal8x8_133
+  - first:
+      213: 3169789715626136277
+    second: terminal8x8_134
+  - first:
+      213: 6238371551024111781
+    second: terminal8x8_135
+  - first:
+      213: -8456957767306975173
+    second: terminal8x8_136
+  - first:
+      213: -8126390841999795713
+    second: terminal8x8_137
+  - first:
+      213: 5299085163779385258
+    second: terminal8x8_138
+  - first:
+      213: 6556093008474499885
+    second: terminal8x8_139
+  - first:
+      213: -2701479295729528515
+    second: terminal8x8_140
+  - first:
+      213: 8024938247474759450
+    second: terminal8x8_141
+  - first:
+      213: 7398472004431428760
+    second: terminal8x8_142
+  - first:
+      213: 2148801462694049639
+    second: terminal8x8_143
+  - first:
+      213: -5281832174413557218
+    second: terminal8x8_144
+  - first:
+      213: -8449085973899555746
+    second: terminal8x8_145
+  - first:
+      213: 8568854861027780763
+    second: terminal8x8_146
+  - first:
+      213: -1896832035243490800
+    second: terminal8x8_147
+  - first:
+      213: -999118236274085996
+    second: terminal8x8_148
+  - first:
+      213: 5790092198972683281
+    second: terminal8x8_149
+  - first:
+      213: 86803029312015304
+    second: terminal8x8_150
+  - first:
+      213: -6832664022904020170
+    second: terminal8x8_151
+  - first:
+      213: -3120583062632363148
+    second: terminal8x8_152
+  - first:
+      213: 7250981107459455062
+    second: terminal8x8_153
+  - first:
+      213: 2933026852492551983
+    second: terminal8x8_154
+  - first:
+      213: -6109061387827561960
+    second: terminal8x8_155
+  - first:
+      213: 5961696351975656819
+    second: terminal8x8_156
+  - first:
+      213: 9177445737587729239
+    second: terminal8x8_157
+  - first:
+      213: -3577449667100504476
+    second: terminal8x8_158
+  - first:
+      213: -6138174398142410312
+    second: terminal8x8_159
+  - first:
+      213: 3774898318500195763
+    second: terminal8x8_160
+  - first:
+      213: 6650247169878957432
+    second: terminal8x8_161
+  - first:
+      213: 2805728951313607185
+    second: terminal8x8_162
+  - first:
+      213: -6795583554089412442
+    second: terminal8x8_163
+  - first:
+      213: -4365296360597973848
+    second: terminal8x8_164
+  - first:
+      213: 5622498616483833017
+    second: terminal8x8_165
+  - first:
+      213: 3289514515537843678
+    second: terminal8x8_166
+  - first:
+      213: 8522455930752953134
+    second: terminal8x8_167
+  - first:
+      213: 4547600995660567556
+    second: terminal8x8_168
+  - first:
+      213: 9154057880062013066
+    second: terminal8x8_169
+  - first:
+      213: -6483509083103544333
+    second: terminal8x8_170
+  - first:
+      213: 723506767545203536
+    second: terminal8x8_171
+  - first:
+      213: 1244099803252676605
+    second: terminal8x8_172
+  - first:
+      213: 5805930137370250894
+    second: terminal8x8_173
+  - first:
+      213: 7915886169584419327
+    second: terminal8x8_174
+  - first:
+      213: -1723674030147694991
+    second: terminal8x8_175
+  - first:
+      213: -8805639136082156917
+    second: terminal8x8_176
+  - first:
+      213: 1064475433651082382
+    second: terminal8x8_177
+  - first:
+      213: -8129778266497853870
+    second: terminal8x8_178
+  - first:
+      213: 2366356037155496533
+    second: terminal8x8_179
+  - first:
+      213: 7187626839049939167
+    second: terminal8x8_180
+  - first:
+      213: -1983469533738922364
+    second: terminal8x8_181
+  - first:
+      213: -903353008648259631
+    second: terminal8x8_182
+  - first:
+      213: -239493913258717941
+    second: terminal8x8_183
+  - first:
+      213: -3142972403536795044
+    second: terminal8x8_184
+  - first:
+      213: -338573290707998618
+    second: terminal8x8_185
+  - first:
+      213: 9008528485251645704
+    second: terminal8x8_186
+  - first:
+      213: 8972620306026556138
+    second: terminal8x8_187
+  - first:
+      213: -8462329683667463620
+    second: terminal8x8_188
+  - first:
+      213: -5557193045482352713
+    second: terminal8x8_189
+  - first:
+      213: 2109074996002729223
+    second: terminal8x8_190
+  - first:
+      213: 7362687660549468282
+    second: terminal8x8_191
+  - first:
+      213: -2968913987665472167
+    second: terminal8x8_192
+  - first:
+      213: -697600184141953848
+    second: terminal8x8_193
+  - first:
+      213: 9162566257530065021
+    second: terminal8x8_194
+  - first:
+      213: -5308825246841596869
+    second: terminal8x8_195
+  - first:
+      213: 2024381397211780695
+    second: terminal8x8_196
+  - first:
+      213: 8913256983573549972
+    second: terminal8x8_197
+  - first:
+      213: 7802126421089161758
+    second: terminal8x8_198
+  - first:
+      213: -4362437093288607194
+    second: terminal8x8_199
+  - first:
+      213: 4391133675507010829
+    second: terminal8x8_200
+  - first:
+      213: 6625857548248729752
+    second: terminal8x8_201
+  - first:
+      213: -4031859778608791007
+    second: terminal8x8_202
+  - first:
+      213: -4715259089003622999
+    second: terminal8x8_203
+  - first:
+      213: -6979979077157159429
+    second: terminal8x8_204
+  - first:
+      213: 5907493194331978354
+    second: terminal8x8_205
+  - first:
+      213: 7837984435704158641
+    second: terminal8x8_206
+  - first:
+      213: 9045580524464390748
+    second: terminal8x8_207
+  - first:
+      213: -6595374183035797831
+    second: terminal8x8_208
+  - first:
+      213: 7386900145062619724
+    second: terminal8x8_209
+  - first:
+      213: -4415491504195317227
+    second: terminal8x8_210
+  - first:
+      213: -7654869160039311191
+    second: terminal8x8_211
+  - first:
+      213: 2823124430828461396
+    second: terminal8x8_212
+  - first:
+      213: -5253116902556112562
+    second: terminal8x8_213
+  - first:
+      213: -8910255856575026860
+    second: terminal8x8_214
+  - first:
+      213: 3550296548287384493
+    second: terminal8x8_215
+  - first:
+      213: -369554681182457763
+    second: terminal8x8_216
+  - first:
+      213: -7012812608183676273
+    second: terminal8x8_217
+  - first:
+      213: -981766699197793838
+    second: terminal8x8_218
+  - first:
+      213: 4431936068133879372
+    second: terminal8x8_219
+  - first:
+      213: -1726697316565782387
+    second: terminal8x8_220
+  - first:
+      213: -8573683292927291092
+    second: terminal8x8_221
+  - first:
+      213: 7989067061025445904
+    second: terminal8x8_222
+  - first:
+      213: -2557497772423566485
+    second: terminal8x8_223
+  - first:
+      213: -548008501839015647
+    second: terminal8x8_224
+  - first:
+      213: -105759368988122419
+    second: terminal8x8_225
+  - first:
+      213: 4506640782901922496
+    second: terminal8x8_226
+  - first:
+      213: -3115158372125538000
+    second: terminal8x8_227
+  - first:
+      213: -7257543213759930311
+    second: terminal8x8_228
+  - first:
+      213: -2283826314705336555
+    second: terminal8x8_229
+  - first:
+      213: 1861354151019908856
+    second: terminal8x8_230
+  - first:
+      213: 3931274350330917701
+    second: terminal8x8_231
+  - first:
+      213: 526815772971098645
+    second: terminal8x8_232
+  - first:
+      213: -164281667056360410
+    second: terminal8x8_233
+  - first:
+      213: 1136159694544183184
+    second: terminal8x8_234
+  - first:
+      213: -6656619324959189739
+    second: terminal8x8_235
+  - first:
+      213: 3429483860632897715
+    second: terminal8x8_236
+  - first:
+      213: 3659592590538006107
+    second: terminal8x8_237
+  - first:
+      213: 8666163106927305427
+    second: terminal8x8_238
+  - first:
+      213: 2923340954686066809
+    second: terminal8x8_239
+  - first:
+      213: 5470167101792773988
+    second: terminal8x8_240
+  - first:
+      213: -933454374062434721
+    second: terminal8x8_241
+  - first:
+      213: -5018160048608727532
+    second: terminal8x8_242
+  - first:
+      213: 5966586304497449010
+    second: terminal8x8_243
+  - first:
+      213: -2778476692392811210
+    second: terminal8x8_244
+  - first:
+      213: 7958207684599163163
+    second: terminal8x8_245
+  - first:
+      213: -6747587238105219169
+    second: terminal8x8_246
+  - first:
+      213: 6485507755231640342
+    second: terminal8x8_247
+  - first:
+      213: -7555814001073571895
+    second: terminal8x8_248
+  - first:
+      213: 4389243433824253265
+    second: terminal8x8_249
+  - first:
+      213: 338212949949821234
+    second: terminal8x8_250
+  - first:
+      213: -5878740415349705940
+    second: terminal8x8_251
+  - first:
+      213: 5476811924924770512
+    second: terminal8x8_252
+  - first:
+      213: -2179366684891883300
+    second: terminal8x8_253
+  - first:
+      213: -3290025716336963271
+    second: terminal8x8_254
+  - first:
+      213: -8142174912593853556
+    second: terminal8x8_255
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terminal8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190ea25a7550ba00800000000000000
+      internalID: 770209520141863196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412039e95e004860800000000000000
+      internalID: 7512019957781111111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df7e536e678387b0800000000000000
+      internalID: -5223182234636353577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d2a3b444b666d0800000000000000
+      internalID: -2997510294803916805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda6bfad6c9a7030800000000000000
+      internalID: 3493276455892594111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b0095858dfcf90800000000000000
+      internalID: -6931083427537963252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d333718619a18a0800000000000000
+      internalID: -6333590049691320975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffde3b58bc428460800000000000000
+      internalID: 7242435505453719539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381698b6bd8f53420800000000000000
+      internalID: 2609265180416762243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c8e777893ac4f0800000000000000
+      internalID: -807769929164471666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09543be8fbd49f890800000000000000
+      internalID: -7423817025615346288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419867b363e6ddc0800000000000000
+      internalID: -3614451633499893430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ed6051911ee910800000000000000
+      internalID: 1868450211222642793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b5174e4cf7c6d70800000000000000
+      internalID: 9037739035848694617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a31892875d9920800000000000000
+      internalID: 2998649145307406575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa021397d61a85e60800000000000000
+      internalID: 7951282633679380655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e76b7498eb90e0800000000000000
+      internalID: -2261958663400331578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4638a2871e9a38b0800000000000000
+      internalID: -5171647398268094900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f606f410e0ef020800000000000000
+      internalID: 2377353052087676775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aefa4edc34c9bb0800000000000000
+      internalID: -4927989340666074510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a5e92c22b7cfc0800000000000000
+      internalID: -3474612684741827448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d77f5b127ded80800000000000000
+      internalID: -8219788282989914139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad60fde6bc8d6240800000000000000
+      internalID: 4786636696268598703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f95fbc4a00aea0800000000000000
+      internalID: -5863675390092248737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89db4e08cc77acd0800000000000000
+      internalID: -2546929865579570801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fe2cf345746ea0800000000000000
+      internalID: -5880446278584830515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4d6d5d03b96d20800000000000000
+      internalID: 3272343474244767190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e09d419d6d0250800000000000000
+      internalID: 5912502356646355475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b185ad249462c7c0800000000000000
+      internalID: -4052566127096266313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdfb67e097faf8d0800000000000000
+      internalID: -2811662815609487879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac2ae81801d7080800000000000000
+      internalID: -9188169516136084742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6407c1125e2561a90800000000000000
+      internalID: -7343590998324514746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b635c8274b5de0800000000000000
+      internalID: -1343401823407000084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a869ed88429c10800000000000000
+      internalID: 2058787754005276758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9fa876f1f64d70800000000000000
+      internalID: 9027168543999762089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea0e3a9cda16da0800000000000000
+      internalID: -5953286150857642254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d14c94c60327c0800000000000000
+      internalID: -4097423794472103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1cd336450be13e0800000000000000
+      internalID: -2081032101309857299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed48a0170caa000800000000000000
+      internalID: 48062337781128711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f1534221270e70800000000000000
+      internalID: 9081263604657942893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220800b06b547dfc0800000000000000
+      internalID: -3470228339694731230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf419d6f9781490800000000000000
+      internalID: -7775330655544214083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f4d73535dfa6a0800000000000000
+      internalID: -6435690917942464408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3c791d1c37da20800000000000000
+      internalID: 3087002165265054840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a995b4d490e5e50800000000000000
+      internalID: 6799882714957322872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f87eb2048b67c10800000000000000
+      internalID: 2051029266067853098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71438b6f35cfd70800000000000000
+      internalID: 9078223267989559265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f07466a79f12e0800000000000000
+      internalID: -2152835355954318805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ee79cfae0b9f20800000000000000
+      internalID: 3430351689335367688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5aa6f4f584127f0800000000000000
+      internalID: -639150097918417433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6b8bcc0a75a1b0800000000000000
+      internalID: -5645972362465940122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb609cb496fb921b0800000000000000
+      internalID: -5680798995987233093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53c7c15bf8bdc50800000000000000
+      internalID: 6691099679418758621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e416d89469b631c0800000000000000
+      internalID: -4524224933935049496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b317a6935b2cb80800000000000000
+      internalID: -8375933098752132308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125605161b95b37b0800000000000000
+      internalID: -5243498722766068447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a4cec21aedfa80800000000000000
+      internalID: -8431325560868395462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5eac7966d8d4b0800000000000000
+      internalID: -5415342803361309551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd15aa8aed11e2e0800000000000000
+      internalID: -2098363058192310832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a218a42486be93220800000000000000
+      internalID: 2466261103983362346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7942d112ed0cb0b0800000000000000
+      internalID: -5711674962799867524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c16f91dc4fb5d90800000000000000
+      internalID: -7107818425133163417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14936dfa823277be0800000000000000
+      internalID: -1479675294912202431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3114d2d7f794b0800000000000000
+      internalID: -5433601940526122394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e41369e0946f280800000000000000
+      internalID: -9009933677509915055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99bb820bc5bf030800000000000000
+      internalID: 3529516644642298365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea396109139fd3d30800000000000000
+      internalID: 4412957201159066542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf8f9fd455c37d20800000000000000
+      internalID: 3275178322348183495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef9094421e88400800000000000000
+      internalID: 326758518944825011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a42f792c733a60800000000000000
+      internalID: 7652596709501216396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b42af88f639f020800000000000000
+      internalID: 2375990719604214585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d4a13519c43b940800000000000000
+      internalID: 5310672572648148284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17634e6f69b04fc20800000000000000
+      internalID: 3239226775001380465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c358dba4a4528b50800000000000000
+      internalID: 6593925870658278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f108f38a1c51b840800000000000000
+      internalID: 5238069110561571312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c6fd9eb94101b0800000000000000
+      internalID: -5692187370976787988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a764abecc3cc0d0800000000000000
+      internalID: -3401276759985456595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cccb0820b7fcbce0800000000000000
+      internalID: -1387962249178788670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efa03e974071120800000000000000
+      internalID: 2384379449262669440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c062f497a5a45790800000000000000
+      internalID: -7542221336761704249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53470beea5666a0800000000000000
+      internalID: -6456373034579905068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c0d44ca96492e0800000000000000
+      internalID: -2119953335974838192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce025eac2a2041430800000000000000
+      internalID: 3752627287718437100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7140b395a381eb0800000000000000
+      internalID: -4748981652145563739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8029ce8cc01a92d0800000000000000
+      internalID: -3271283708576325489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73584c8ed989400800000000000000
+      internalID: 331188195666769905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363bbaaff8150fc80800000000000000
+      internalID: -8291037235161353373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3110b6114110080800000000000000
+      internalID: -9223068496835832836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22484be43f32759e0800000000000000
+      internalID: -1632796811994037214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c3c06b9a0838c0800000000000000
+      internalID: -4019451004968517631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041c0f3243f464180800000000000000
+      internalID: -9131524109087227584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ca3d76cdcd2210800000000000000
+      internalID: 1309929319022904541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6123382e4ad50d0800000000000000
+      internalID: -3432406048215787871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087147461a5b2d3b0800000000000000
+      internalID: -5489125291031521408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7ff0969193c0a0800000000000000
+      internalID: -6862481331318719760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63587b2b972ae040800000000000000
+      internalID: 4677594710380401514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba84123f1611500800000000000000
+      internalID: 365180741657078782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159b3a5e1b7e8240800000000000000
+      internalID: 4795906023489246483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f17fc02ebbdaf0800000000000000
+      internalID: -370493496199350591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d5a89d0d099540800000000000000
+      internalID: 5015054012100497734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053019eda7a0f760800000000000000
+      internalID: 7489670545698469132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905cae834a5f69140800000000000000
+      internalID: 4726234944650265865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964e21970acc714d0800000000000000
+      internalID: -3163835223606369175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674638fad7e67b80800000000000000
+      internalID: -8397269527532517535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167dd5d1da4460a50800000000000000
+      internalID: 6486947823586498401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fda29669d60d2a0800000000000000
+      internalID: -6714746551632470269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f4f6a6f7b4c4d40800000000000000
+      internalID: 5569909849769070380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad8abfa58826bc0800000000000000
+      internalID: -3791318011941954940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a6063047983f60800000000000000
+      internalID: 8014321838945904696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba18aa4d469720ad0800000000000000
+      internalID: -2737492149516205653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df2e3c29149e4f0800000000000000
+      internalID: -799035360274088562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e3759f508d34d0800000000000000
+      internalID: -3153223016071830744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf86f0f7ceebf60800000000000000
+      internalID: 8052133214248565856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ccd099168dfc30800000000000000
+      internalID: 4394816255746163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084980d8361da2d0800000000000000
+      internalID: -3265929721501104128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fa33c9b3069f30800000000000000
+      internalID: 4581853767275311823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005459eec30fa080800000000000000
+      internalID: -9174109728717647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769913382f1e0d00800000000000000
+      internalID: 940723629683480189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8926470160e6eafe0800000000000000
+      internalID: -1175881480372198760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6420a4e1aa0b50800000000000000
+      internalID: 6560233810529905379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d11973bff1bed80800000000000000
+      internalID: -8220441531005199099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc872d27e9f046d0800000000000000
+      internalID: -3008129779793163056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe67c6d6044b0b80800000000000000
+      internalID: -8427567481529864457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c6daa29dcd8340800000000000000
+      internalID: 4867772802072495938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7afc76a8db7d900800000000000000
+      internalID: 709243868478941163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031cb93ab890bda0800000000000000
+      internalID: -5931072783646977279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2893a72f76f3650800000000000000
+      internalID: 6214800301924909798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d1e0c073063c70800000000000000
+      internalID: 8950345092252685587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f716c04e191a900800000000000000
+      internalID: 693996226238054153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caeddb004ae6c570800000000000000
+      internalID: 8486728108624177862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b7cac43bbeb480800000000000000
+      internalID: -8881455579713260220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149540180a810630800000000000000
+      internalID: 3891543320262186000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d425f7493eaa0dc0800000000000000
+      internalID: -3671930985123601200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968062234ff8d2eb0800000000000000
+      internalID: -4742976553575118743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2159cb3fa5dfb20800000000000000
+      internalID: 3169789715626136277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e1b39fd5239650800000000000000
+      internalID: 6238371551024111781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ef2fa7b9d2aa80800000000000000
+      internalID: -8456957767306975173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95d9ca592493f80800000000000000
+      internalID: -8126390841999795713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ec9571e12a8940800000000000000
+      internalID: 5299085163779385258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_139
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6b840bdbebfa50800000000000000
+      internalID: 6556093008474499885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3118f1c4ea628ad0800000000000000
+      internalID: -2701479295729528515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cd2171de4e5f60800000000000000
+      internalID: 8024938247474759450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cbec8d617aca660800000000000000
+      internalID: 7398472004431428760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f7b4ab8312dd10800000000000000
+      internalID: 2148801462694049639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12d9d82f9923b6b0800000000000000
+      internalID: -5281832174413557218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4bf86211deba80800000000000000
+      internalID: -8449085973899555746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a07ba810bae670800000000000000
+      internalID: 8568854861027780763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120bb450591da5e0800000000000000
+      internalID: -1896832035243490800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa446f14b6222f0800000000000000
+      internalID: -999118236274085996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f6808d2a8a5050800000000000000
+      internalID: 5790092198972683281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb029f25e2643100800000000000000
+      internalID: 86803029312015304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e63da5408d21a0800000000000000
+      internalID: -6832664022904020170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b82b3fc3671b4d0800000000000000
+      internalID: -3120583062632363148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658703f56e8a0a460800000000000000
+      internalID: 7250981107459455062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27208be16434b820800000000000000
+      internalID: 2933026852492551983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81abb73f801483ba0800000000000000
+      internalID: -6109061387827561960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4046ee333cb250800000000000000
+      internalID: 5961696351975656819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e65e2646dc5f70800000000000000
+      internalID: 9177445737587729239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e82ae5b785a5ec0800000000000000
+      internalID: -3577449667100504476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_159
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1135508e2d0daa0800000000000000
+      internalID: -6138174398142410312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd6c693502236430800000000000000
+      internalID: 3774898318500195763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_161
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9e25019c6a4c50800000000000000
+      internalID: 6650247169878957432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa317ad93ffe620800000000000000
+      internalID: 2805728951313607185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_163
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8930913cc31b1a0800000000000000
+      internalID: -6795583554089412442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4904f961a5b63c0800000000000000
+      internalID: -4365296360597973848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e4a1d3b0270e40800000000000000
+      internalID: 5622498616483833017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5df16f504b6ad20800000000000000
+      internalID: 3289514515537843678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b637ed388d54670800000000000000
+      internalID: 8522455930752953134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049f86e2035c1f30800000000000000
+      internalID: 4547600995660567556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_169
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2672442fb90f70800000000000000
+      internalID: 9154057880062013066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb389b07d2f506a0800000000000000
+      internalID: -6483509083103544333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7f1062996a0a00800000000000000
+      internalID: 723506767545203536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75206fd2ee34110800000000000000
+      internalID: 1244099803252676605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e40b4e2bec29050800000000000000
+      internalID: 5805930137370250894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_174
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c184f780eadd60800000000000000
+      internalID: 7915886169584419327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0b7c1a974418e0800000000000000
+      internalID: -1723674030147694991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ab892cd51cc580800000000000000
+      internalID: -8805639136082156917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_177
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8417ee54c6c5ce00800000000000000
+      internalID: 1064475433651082382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25654b27db93d2f80800000000000000
+      internalID: -8129778266497853870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55221ce374cf6d020800000000000000
+      internalID: 2366356037155496533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a2a747849fb360800000000000000
+      internalID: 7187626839049939167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e8eaac7fc4974e0800000000000000
+      internalID: -1983469533738922364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77dbc8935a673f0800000000000000
+      internalID: -903353008648259631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d88560e852dacf0800000000000000
+      internalID: -239493913258717941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a655c404be164d0800000000000000
+      internalID: -3142972403536795044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682aecc2652d4bf0800000000000000
+      internalID: -338573290707998618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_186
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80189689de8b40d70800000000000000
+      internalID: 9008528485251645704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_187
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6b2d11a6258c70800000000000000
+      internalID: 8972620306026556138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d1c0fcf3cf8a80800000000000000
+      internalID: -8462329683667463620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_189
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc0cf4e52e0e2b0800000000000000
+      internalID: -5557193045482352713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_190
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da665d880f44d10800000000000000
+      internalID: 2109074996002729223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_191
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f3370b658d2660800000000000000
+      internalID: 7362687660549468282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d28c457c4cc6d0800000000000000
+      internalID: -2968913987665472167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c8fc1450a156f0800000000000000
+      internalID: -697600184141953848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705f034779f72f70800000000000000
+      internalID: 9162566257530065021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34916bb0934356b0800000000000000
+      internalID: -5308825246841596869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75697b6b72c081c10800000000000000
+      internalID: 2024381397211780695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_197
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dba9800042bb70800000000000000
+      internalID: 8913256983573549972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1295bd74a8b64c60800000000000000
+      internalID: 7802126421089161758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228b8ba3928573c0800000000000000
+      internalID: -4362437093288607194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc9d900d070fc30800000000000000
+      internalID: 4391133675507010829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c4b7b556c3fb50800000000000000
+      internalID: 6625857548248729752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_202
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12286df94e4fb08c0800000000000000
+      internalID: -4031859778608791007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_203
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc10057d8009eb0800000000000000
+      internalID: -4715259089003622999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7366c202222f90800000000000000
+      internalID: -6979979077157159429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_205
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af131d2c1abf150800000000000000
+      internalID: 5907493194331978354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_206
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9df2d115d16cc60800000000000000
+      internalID: 7837984435704158641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_207
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5244ebbf8b588d70800000000000000
+      internalID: 9045580524464390748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be7e53df168874a0800000000000000
+      internalID: -6595374183035797831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_209
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2db16b8a838660800000000000000
+      internalID: 7386900145062619724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_210
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512dea70fd509b2c0800000000000000
+      internalID: -4415491504195317227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_211
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a893c16e0174c590800000000000000
+      internalID: -7654869160039311191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd14856b0cd2720800000000000000
+      internalID: 2823124430828461396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_213
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ea83620e2917b0800000000000000
+      internalID: -5253116902556112562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459600bc189685480800000000000000
+      internalID: -8910255856575026860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_215
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab07ff76ef254130800000000000000
+      internalID: 3550296548287384493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507907b9f31fdaf0800000000000000
+      internalID: -369554681182457763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_217
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d4dc961c7dae90800000000000000
+      internalID: -7012812608183676273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_218
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f10283601062f0800000000000000
+      internalID: -981766699197793838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_219
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7c506f56618d30800000000000000
+      internalID: 4431936068133879372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f97360f98908e0800000000000000
+      internalID: -1726697316565782387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_221
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211e5c6878240980800000000000000
+      internalID: -8573683292927291092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_222
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01812330a2edede60800000000000000
+      internalID: 7989067061025445904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_223
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b27d08351f18cd0800000000000000
+      internalID: -2557497772423566485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ddf9cb251568f0800000000000000
+      internalID: -548008501839015647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_225
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22bcb0a64488ef0800000000000000
+      internalID: -105759368988122419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_226
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca48233aedca8e30800000000000000
+      internalID: 4506640782901922496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_227
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398f5227fbb4c4d0800000000000000
+      internalID: -3115158372125538000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930eac136e6084b90800000000000000
+      internalID: -7257543213759930311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_229
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5178c4721183e40e0800000000000000
+      internalID: -2283826314705336555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_230
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe8dbc0dbbd4d910800000000000000
+      internalID: 1861354151019908856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_231
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543341e5131be8630800000000000000
+      internalID: 3931274350330917701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e3028720af4700800000000000000
+      internalID: 526815772971098645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_233
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242ff7b1ba58bdf0800000000000000
+      internalID: -164281667056360410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_234
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1c69f83374cf00800000000000000
+      internalID: 1136159694544183184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_235
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159ec20effee93a0800000000000000
+      internalID: -6656619324959189739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b885fba669f79f20800000000000000
+      internalID: 3429483860632897715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_237
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5bad521c79c230800000000000000
+      internalID: 3659592590538006107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_238
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26ff13e65644870800000000000000
+      internalID: 8666163106927305427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_239
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9701a691c1bc19820800000000000000
+      internalID: 2923340954686066809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e2643fffe9eb40800000000000000
+      internalID: 5470167101792773988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_241
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5659f34134bb03f0800000000000000
+      internalID: -933454374062434721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_242
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eae9ce50aeb5ab0800000000000000
+      internalID: -5018160048608727532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_243
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f741b1a29dc250800000000000000
+      internalID: 5966586304497449010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63569355b2ed079d0800000000000000
+      internalID: -2778476692392811210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_245
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19215989bb317e60800000000000000
+      internalID: 7958207684599163163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f77cd3821cb52a0800000000000000
+      internalID: -6747587238105219169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_247
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b7f9211f6210a50800000000000000
+      internalID: 6485507755231640342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7361dc23b542790800000000000000
+      internalID: -7555814001073571895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_249
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557fc9d5a9b9ec30800000000000000
+      internalID: 4389243433824253265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2313234d2e291b400800000000000000
+      internalID: 338212949949821234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_251
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2339583db48a6ea0800000000000000
+      internalID: -5878740415349705940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a3c6ad6b810c40800000000000000
+      internalID: 5476811924924770512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_253
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8d2bffb8551c1e0800000000000000
+      internalID: -2179366684891883300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_254
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d5d3da0b7752d0800000000000000
+      internalID: -3290025716336963271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal8x8_255
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830fbb5e0f210f80800000000000000
+      internalID: -8142174912593853556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
