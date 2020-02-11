@@ -34,7 +34,7 @@ public class SpecialDemo : MonoBehaviour
             return tile;
         });
 
-        var lineWait = 1.5f;
+        var lineWait = 1f;
 
         foreach(var line in this.text)
         {
@@ -85,7 +85,7 @@ public class SpecialDemo : MonoBehaviour
         }
     }
 
-    private IEnumerable RenderLine(string line, float minSeconds = 0.1f, float maxSeconds = 0.15f, int x = 1, int y = 48)
+    private IEnumerable RenderLine(string line, float minSeconds = 0.05f, float maxSeconds = 0.1f, int x = 1, int y = 48)
     {
         for(int i = 0; i < line.Length; i++)
         {
